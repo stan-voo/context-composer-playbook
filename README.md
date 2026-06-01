@@ -1,4 +1,4 @@
-> **This repository is archived as of 2026-06-01.** The playbook has moved into my personal knowledge base, where the ideas continue to evolve. A curated, web-native version will be published at [99rabbits.com/ai-ui](https://www.99rabbits.com/ai-ui) (coming soon). The files here are frozen at their last state — kept public for anyone who linked to them or wants to read the original snapshot.
+> **This repository is archived as of 2026-06-01.** The playbook has moved into my personal knowledge base, where the ideas continue to evolve. A curated, web-native version will be published at [99rabbits.com/ai-context](https://www.99rabbits.com/ai-context) (coming soon). The files here are frozen at their last state — kept public for anyone who linked to them or wants to read the original snapshot.
 
 ---
 
